@@ -1,0 +1,22 @@
+{
+  "name": "particle41test",
+  "version": "1.0.0",
+  "description": "Test1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamanBagga1994/particle41.git"
+  },
+  "author": "naman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamanBagga1994/particle41/issues"
+  },
+  "homepage": "https://github.com/NamanBagga1994/particle41#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
