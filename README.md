@@ -2,9 +2,12 @@
 
 app.js ---- Refers to webapp in node JS 
 
+
 Dockerfile ---- Refers to Dockerfile that creates an image that can run our webapplication localhost:8080/
 
+
 Application.yml --- Refers to defination file with Deployment and service defined inside it to deploy our app and expose it on out local host.
+
 
 
 
